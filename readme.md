@@ -1,6 +1,6 @@
 # <img src="./apps/pwa/src/static/app_logo_v1.png" alt="Cicada logo" width="36" height="36" /> Cicada
 
-A multi-user music service for self-hosting.
+Cicada is a music service for self-hosting.
 
 ![version](https://img.shields.io/github/v/release/mebtte/cicada?style=for-the-badge)
 ![license](https://img.shields.io/github/license/mebtte/cicada?style=for-the-badge)
